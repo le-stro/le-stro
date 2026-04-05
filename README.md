@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="./welcome ascii art.gif" alt="Welcome ASCII Art"  />
 </div>
 
 ###
