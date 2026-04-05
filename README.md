@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="./welcome ascii art.gif" alt="Welcome ASCII Art"  />
+  <img height="200" src="./welcome ascii art.png" alt="Welcome ASCII Art"  />
 </div>
 
 ###
