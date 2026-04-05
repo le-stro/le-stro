@@ -4,7 +4,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="200" src="./welcome ascii art.png" alt="Welcome ASCII Art"  />
 </div>
 
