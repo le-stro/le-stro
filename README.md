@@ -22,7 +22,11 @@
 
 ###
 
-<p align="left">Right now, I am working on a option pricing model implementing the formula from Black and Scholes.</p>
+<p align="left">Recently I implemented an option pricing model using the formula from Black and Scholes. The core logic focuses on the call price formula: 
+  
+$$C(S, t) = S_t N(d_1) - Ke^{-r(T-t)} N(d_2)$$
+
+My goal was to create Jupyter notebooks that visualize Greeks and compare implied volatility with real market data.</p>
 
 ###
 
