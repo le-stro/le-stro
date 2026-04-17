@@ -28,7 +28,7 @@
 
 <h3 align="left">Skills</h3>
 
-#### 📐 Languages & Data Science
+#### Languages & Data Science
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img width="12" />
@@ -45,7 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css" />
 </div>
 
-#### 💻 Development & Tools
+#### Development & Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
   <img width="12" />
@@ -62,7 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio" />
 </div>
 
-#### 🎨 Creative & Engine
+#### Creative & Engine
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender" />
   <img width="12" />
