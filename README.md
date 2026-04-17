@@ -4,10 +4,6 @@
 
 ###
 
-<div align="left">
-  <img height="200" src="./welcome ascii art.png" alt="Welcome ASCII Art"  />
-</div>
-
 ###
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Leonard+Strohwald;Math+Student+%26+Coding+Projects)](https://git.io/typing-svg)
