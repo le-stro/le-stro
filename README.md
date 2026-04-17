@@ -26,7 +26,9 @@
   
 $$C(S, t) = S_t N(d_1) - Ke^{-r(T-t)} N(d_2)$$
 
-My goal was to create Jupyter notebooks that visualize Greeks and compare implied volatility with real market data.</p>
+My goal was to create Jupyter notebooks that visualize Greeks and compare implied volatility with real market data. Have a look! </p>
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/le-stro/option-pricing-model)
 
 ###
 
